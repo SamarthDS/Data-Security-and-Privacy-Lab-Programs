@@ -1,0 +1,7 @@
+{
+  "testuser": {
+    "password_hash": "564d3875f1888514992661d9c634179374148fe0a5ee8f82d21e167c3d0ecdf8",
+    "salt": "0cf3ec1f4c545a325d0838f8159bb20ee7ec8082fb057c1780cf6b3227c9b19a",
+    "created_at": 1757437539.945223
+  }
+}
